@@ -1,0 +1,57 @@
+
+#layout, #layout-jumbotron {
+    margin: 0;
+    padding: 0;
+}
+
+#content_main {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.carousel-caption {
+    padding: 5px;
+    background-color: black;
+    color: white;
+}
+
+.badge-list-group {
+    float: right;
+}
+
+.file_contents {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    padding-left: 15px;
+    padding-right: 15px;
+    overflow-x: scroll;
+
+    &>span {
+        display: inline-block;
+        width: 100%;
+        margin-top: 10px;
+        border-bottom: solid thin black;
+    }
+
+    pre {
+        font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+        monospace;
+    }
+}
+
+#footer {
+    text-align: center;
+    padding: 25px;
+    background-color: gray;
+    color: white;
+
+    a, a:focus, a:visited, a:active {
+        color: silver;
+        position: relative;
+        text-decoration: none;
+
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+}

@@ -1,0 +1,27 @@
+[
+    { 
+        "id": 1, 
+        "title": "Bienvenido a react-base-multilang-site!", 
+        "text": "<p>Nos complace presentarte <i><b>react-base-multilang-site</b></i></p><p>Puedes encontrar <a href='https://github.com/Magicianred/react-base-multilang-site'>el repositorio en GitHub</a></p>", 
+        "imagesrc": "https://picsum.photos/400/200" 
+    },
+    { 
+        "id": 2, 
+        "title": "Bienvenido a react-base-info-site!", 
+        "text": "<p>Esta es una aplicación web de demostración destinada a mostrarle este producto digital.</p>", 
+        "imagesrc": "https://picsum.photos/400/200" ,
+        "link": "https://magicianred.altervista.org/gigs/react-base-info-site/"
+    },
+    { 
+        "id": 3, 
+        "title": "Lorem ipsum dolor sit amet 2", 
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nisl lacus, lobortis vel nulla ut, bibendum suscipit magna. Phasellus efficitur risus et ante sodales fringilla. Morbi massa dui, tempor id luctus ac, maximus a orci. In sit amet eros scelerisque magna dictum laoreet. Nunc ac mauris sed tellus mollis ornare. Curabitur aliquet diam in sapien luctus auctor.", 
+        "imagesrc": "https://placeimg.com/400/200/grayscale" 
+    },
+    { 
+        "id": 4, 
+        "title": "Lorem ipsum dolor sit amet 3", 
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nisl lacus, lobortis vel nulla ut, bibendum suscipit magna. Phasellus efficitur risus et ante sodales fringilla. Morbi massa dui, tempor id luctus ac, maximus a orci. In sit amet eros scelerisque magna dictum laoreet. Nunc ac mauris sed tellus mollis ornare. Curabitur aliquet diam in sapien luctus auctor.", 
+        "imagesrc": "https://placeimg.com/400/200/tech" 
+    }
+]

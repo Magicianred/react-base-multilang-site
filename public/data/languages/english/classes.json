@@ -1,0 +1,18 @@
+[
+    { 
+        "id": 1, 
+        "title": "Course 1", 
+        "text": "<p>This is the class description.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nisl lacus, lobortis vel nulla ut, bibendum suscipit magna. Phasellus efficitur risus et ante sodales fringilla. Morbi massa dui, tempor id luctus ac, maximus a orci. In sit amet eros scelerisque magna dictum laoreet. Nunc ac mauris sed tellus mollis ornare. Curabitur aliquet diam in sapien luctus auctor.</p>", 
+        "datestart": "04/04/2020", 
+        "dateend": "04/06/2020", 
+        "imagesrc": "https://placeimg.com/200/200/tech" 
+    },
+    { 
+        "id": 2, 
+        "title": "Course 2", 
+        "text": "<p>Sed eget neque ante. Aliquam euismod ac lectus quis tempor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam placerat consectetur felis ut fermentum. Ut a mauris vel erat porta congue. Sed ut fermentum nisl, ac maximus turpis. Nunc rutrum, ipsum vitae laoreet rutrum, purus mi fermentum leo, ut pulvinar velit urna id leo. Vivamus eu mi enim. Praesent ac ultrices mi, lacinia interdum dui. Morbi tempus vulputate lacus ac luctus. Aenean in arcu interdum, efficitur quam eu, suscipit felis.</p>", 
+        "datestart": "06/06/2020", 
+        "dateend": "04/08/2020", 
+        "imagesrc": "https://picsum.photos/200/200" 
+    }
+]
